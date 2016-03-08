@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Collections_UIA/Collections_UIA.iml" filepath="$PROJECT_DIR$/Collections_UIA/Collections_UIA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Simen_Webshop_3.0/Simen_Webshop_3.0.iml" filepath="$PROJECT_DIR$/Simen_Webshop_3.0/Simen_Webshop_3.0.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Webshop.iml" filepath="$PROJECT_DIR$/Webshop.iml" />
+    </modules>
+  </component>
+</project>
